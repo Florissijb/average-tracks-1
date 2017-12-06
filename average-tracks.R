@@ -10,7 +10,7 @@
 # date: 2014-01-02
 
 # Uncomment to set working directory to something else than current directory
-#setwd("~/")
+setwd("~/")
 
 # Save the start time
 beginTime <- proc.time()
